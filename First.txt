@@ -1,0 +1,3 @@
+Hi i learned git and github basics 
+and
+This is my first push on github thorugh terminal 
